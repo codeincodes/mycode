@@ -1,6 +1,7 @@
 # mycode (Project Title)
 
-This is about my 5th time working/using Python and I'm trying to really dive in and focus on Python and Network Automation
+This is about my 5th time working/using Python and I'm trying to really dive in and focus on Python and Network Automation.
+I will like to utilize git for use of version controlling projects.
 
 ## Getting Started
 
